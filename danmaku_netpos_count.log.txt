@@ -1,0 +1,944 @@
+0
+Could not open https://api.bilibili.com/archive_stat/stat?aid=49506566
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=17389914
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=9218171
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=10600716
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=57998607
+'data'
+100
+Could not open https://api.bilibili.com/archive_stat/stat?aid=26795602
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=11677976
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=27623920
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=16549864
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=58786205
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=32599997
+'data'
+200
+Could not open https://api.bilibili.com/archive_stat/stat?aid=15023879
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=14814482
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=21912108
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=64628994
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=9381290
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=2660957
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=2352927
+'data'
+300
+Could not open https://api.bilibili.com/archive_stat/stat?aid=49835743
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=19686793
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=3647120
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=15512198
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=3312454
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=17784565
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=7371795
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=48673076
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=6188090
+'data'
+400
+Could not open https://api.bilibili.com/archive_stat/stat?aid=65836334
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=64388944
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=68293483
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=2554216
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=38577912
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=21344122
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=65368714
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=19621243
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=48576536
+'data'
+500
+Could not open https://api.bilibili.com/archive_stat/stat?aid=49775093
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=61634707
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=37167650
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=52350271
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=11232472
+'data'
+600
+Could not open https://api.bilibili.com/archive_stat/stat?aid=66383384
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=59725163
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=11608182
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=62248705
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=13088611
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=35550776
+'data'
+700
+Could not open https://api.bilibili.com/archive_stat/stat?aid=43659718
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=61469829
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=31446968
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=14579857
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=55373675
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=16587782
+'data'
+800
+Could not open https://api.bilibili.com/archive_stat/stat?aid=28551643
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=70774923
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=36481274
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=25839721
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=10398032
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=20362672
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=2765176
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=2618058
+'data'
+900
+Could not open https://api.bilibili.com/archive_stat/stat?aid=12969435
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=43405981
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=25325728
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=16666759
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=31118658
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=26375742
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=2729414
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=23817086
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=45544009
+'data'
+1000
+Could not open https://api.bilibili.com/archive_stat/stat?aid=13166081
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=31958467
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=20399419
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=21161527
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=44090760
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=50736394
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=33573297
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=14322231
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=15296939
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=1552120
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=27967705
+'data'
+1100
+Could not open https://api.bilibili.com/archive_stat/stat?aid=49180702
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=13929521
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=57687534
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=57665194
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=11642821
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=16096223
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=11493498
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=51415051
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=62843158
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=60515516
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=7239203
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=13691490
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=68332878
+'data'
+1200
+Could not open https://api.bilibili.com/archive_stat/stat?aid=65522939
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=32319755
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=5089068
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=67583012
+'data'
+1300
+Could not open https://api.bilibili.com/archive_stat/stat?aid=30050561
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=8580885
+'data'
+1400
+Could not open https://api.bilibili.com/archive_stat/stat?aid=10438732
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=11189041
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=56225237
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=3333185
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=12631354
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=31663023
+'data'
+1500
+Could not open https://api.bilibili.com/archive_stat/stat?aid=41995311
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=35953689
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=12694083
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=59497860
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=29319402
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=36911025
+'data'
+1600
+Could not open https://api.bilibili.com/archive_stat/stat?aid=25779678
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=36892021
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=65378329
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=59590613
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=58431785
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=57876892
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=25238930
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=70189245
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=57900225
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=26242894
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=30519238
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=66443849
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=32757106
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=57155047
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=68294316
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=42543202
+'data'
+1700
+Could not open https://api.bilibili.com/archive_stat/stat?aid=25269682
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=12950663
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=55586087
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=65533970
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=54292845
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=65243464
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=37951156
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=30786190
+'data'
+1800
+Could not open https://api.bilibili.com/archive_stat/stat?aid=30346174
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=40811439
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=49257267
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=8298433
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=27080354
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=11655510
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=8797192
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=26214502
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=57362852
+'data'
+1900
+Could not open https://api.bilibili.com/archive_stat/stat?aid=25047494
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=69370240
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=59243464
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=51870464
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=20369060
+'data'
+2000
+Could not open https://api.bilibili.com/archive_stat/stat?aid=46828752
+'data'
+2100
+Could not open https://api.bilibili.com/archive_stat/stat?aid=330997
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=48787404
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=35447629
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=70970354
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=39353850
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=12885970
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=21220616
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=2444823
+'data'
+2200
+Could not open https://api.bilibili.com/archive_stat/stat?aid=22199291
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=20649671
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=30828197
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=23897475
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=10367768
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=34035528
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=48802193
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=21723755
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=21994097
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=41843764
+'data'
+2300
+Could not open https://api.bilibili.com/archive_stat/stat?aid=17614413
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=61152512
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=38348240
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=65334957
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=31606426
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=13209697
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=36586704
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=62116570
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=42939966
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=30821166
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=43091738
+'data'
+2400
+Could not open https://api.bilibili.com/archive_stat/stat?aid=30149749
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=22704171
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=27766340
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=64799414
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=32778275
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=42646017
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=43100905
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=44174770
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=16716848
+'data'
+2500
+Could not open https://api.bilibili.com/archive_stat/stat?aid=37472767
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=25778784
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=17318105
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=37850943
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=60147781
+'data'
+2600
+Could not open https://api.bilibili.com/archive_stat/stat?aid=11487569
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=29350926
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=14998448
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=66521594
+'data'
+2700
+Could not open https://api.bilibili.com/archive_stat/stat?aid=11697288
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=21900769
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=49880529
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=42095304
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=46236855
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=41959724
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=4355385
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=58966847
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=48755294
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=48837744
+'data'
+2800
+Could not open https://api.bilibili.com/archive_stat/stat?aid=47705277
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=48910590
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=30779196
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=32701422
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=11616131
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=51128519
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=10811372
+'data'
+2900
+Could not open https://api.bilibili.com/archive_stat/stat?aid=17995565
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=19790583
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=12036202
+'data'
+3000
+Could not open https://api.bilibili.com/archive_stat/stat?aid=52072617
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=15635463
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=11240482
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=25051843
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=30775898
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=953483
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=50044484
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=62882655
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=41716012
+'data'
+3100
+Could not open https://api.bilibili.com/archive_stat/stat?aid=12579737
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=61503690
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=26349279
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=41949050
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=58571639
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=29900095
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=33815117
+'data'
+3200
+Could not open https://api.bilibili.com/archive_stat/stat?aid=51369668
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=49295380
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=29575114
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=57894971
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=14232626
+'data'
+3300
+Could not open https://api.bilibili.com/archive_stat/stat?aid=27064534
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=62333399
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=2042107
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=53572531
+'data'
+3400
+Could not open https://api.bilibili.com/archive_stat/stat?aid=64141846
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=63171838
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=5359189
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=15936766
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=63236262
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=41725509
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=35904542
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=63325433
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=28160744
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=11238172
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=41881426
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=11839526
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=14736348
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=24616042
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=11663407
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=36057536
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=55004272
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=49945521
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=474439
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=52157515
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=11339221
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=16182398
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=55759365
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=29891697
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=1378875
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=53572080
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=36428150
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=65110427
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=10658847
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=11131620
+'data'
+3500
+Could not open https://api.bilibili.com/archive_stat/stat?aid=19020438
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=64360560
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=25816954
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=7065073
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=22495533
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=29677108
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=62796504
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=21512899
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=26645911
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=37983088
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=14738981
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=22996389
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=53571636
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=16215962
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=11083117
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=38665157
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=41817643
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=22120466
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=19612887
+'data'
+3600
+Could not open https://api.bilibili.com/archive_stat/stat?aid=49212311
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=37539680
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=11148291
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=2350463
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=50176472
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=36549512
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=40925045
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=61924086
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=51396879
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=52461721
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=49099996
+'data'
+3700
+Could not open https://api.bilibili.com/archive_stat/stat?aid=53792469
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=13711034
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=33254089
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=22300438
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=8897929
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=5250891
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=45469201
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=35251625
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=12677194
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=21342845
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=47851389
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=51498293
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=17015922
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=52457133
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=55300967
+'data'
+3800
+Could not open https://api.bilibili.com/archive_stat/stat?aid=46950975
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=66009924
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=10462806
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=2979532
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=64127540
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=39639797
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=1968804
+'data'
+3900
+Could not open https://api.bilibili.com/archive_stat/stat?aid=34145681
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=22972976
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=62061819
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=5735486
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=30191496
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=31283606
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=34061020
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=8821740
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=37698166
+'data'
+4000
+Could not open https://api.bilibili.com/archive_stat/stat?aid=18683809
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=23066919
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=27446556
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=32021801
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=36692899
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=31093297
+'data'
+4100
+Could not open https://api.bilibili.com/archive_stat/stat?aid=20416580
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=14072910
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=12310538
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=8029794
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=5836253
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=66707232
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=45644651
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=55102106
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=40990736
+'data'
+4200
+Could not open https://api.bilibili.com/archive_stat/stat?aid=60937046
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=41092995
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=41553232
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=46987984
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=42511152
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=49598955
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=23694012
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=23695052
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=60560041
+'data'
+4300
+Could not open https://api.bilibili.com/archive_stat/stat?aid=42815636
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=14290097
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=26533383
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=20521668
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=64296470
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=56221457
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=32825354
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=41960455
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=31864266
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=453025
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=28843021
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=55465165
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=58636527
+'data'
+4400
+Could not open https://api.bilibili.com/archive_stat/stat?aid=26227093
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=28021155
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=22310456
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=61568698
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=2353780
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=21048448
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=1069277
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=25860405
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=24397187
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=127863
+'data'
+4500
+Could not open https://api.bilibili.com/archive_stat/stat?aid=50307219
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=29242673
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=58498134
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=48821007
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=36981232
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=53665568
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=34995384
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=28824766
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=44087246
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=51044220
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=40628399
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=35525282
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=53572014
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=35923094
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=41211313
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=68503388
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=37331150
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=33235915
+'data'
+4600
+Could not open https://api.bilibili.com/archive_stat/stat?aid=34864524
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=44035533
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=1156961
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=39099298
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=961262
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=23401066
+'data'
+4700
+Could not open https://api.bilibili.com/archive_stat/stat?aid=61558837
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=62228342
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=62748104
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=38552007
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=39027946
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=29671612
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=24735320
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=39916452
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=40803675
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=18806885
+'data'
+4800
+Could not open https://api.bilibili.com/archive_stat/stat?aid=49196138
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=45024514
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=69512010
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=50965297
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=44110512
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=55801330
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=66003121
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=67616231
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=66869920
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=47046606
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=55347320
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=42260595
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=69687907
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=46066729
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=33247244
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=33498181
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=55274999
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=29580221
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=48683041
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=45082354
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=37740908
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=37861046
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=64391375
+'data'
+4900
+Could not open https://api.bilibili.com/archive_stat/stat?aid=36363164
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=38958191
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=27723714
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=45671790
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=32704933
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=4642037
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=15460977
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=33570052
+'data'
+Could not open https://api.bilibili.com/archive_stat/stat?aid=67239297
+'data'
