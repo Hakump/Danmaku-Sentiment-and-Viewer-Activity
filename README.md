@@ -1,5 +1,5 @@
-# CS-760-Final-Project
+# Danmaku-Sentiment-and-Viewer-Activity
 
-This is a research project implementing natural language processing technology.
+This is our research project of CS 760: Machine Learning.
 
 See more details: [Link](https://github.com/Hakump/Danmaku-Sentiment-and-Viewer-Activity/wiki)
